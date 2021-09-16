@@ -65,7 +65,7 @@ const maxSequence = function(arr){
 ### Courses:
 
 * [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/certificate/UC-31c76af1-6e98-44e7-b183-0b39ae7054a8/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
-* [React course](https://learn.javascript.ru/courses/react-20210702/glucus2/en/certificate.jpg)
+* [React course & last features by learn.javascript](https://learn.javascript.ru/courses/react-20210702/glucus2/en/certificate.jpg)
 * in progress [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide)
 
 ---
@@ -73,4 +73,5 @@ const maxSequence = function(arr){
 ### Languages:
 
 *Russian - Native
+
 *English - B1+
