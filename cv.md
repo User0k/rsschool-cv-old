@@ -69,3 +69,8 @@ const maxSequence = function(arr){
 * in progress [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide)
 
 ---
+
+### Languages:
+
+*Russian - Native
+*English - B1+
