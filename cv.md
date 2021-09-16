@@ -72,6 +72,6 @@ const maxSequence = function(arr){
 
 ### Languages:
 
-*Russian - Native
+* Russian - Native
 
-*English - B1+
+* English - B1+
