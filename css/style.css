@@ -26,6 +26,10 @@ h3 {
   text-align: center;
 }
 
+.row {
+  align-items: center;
+}
+
 ul {
   margin-left: 0;
   padding-left: 0;
@@ -48,4 +52,16 @@ li {
 pre {
   background-color: #ececec;
   color: #000000;
+}
+
+footer {
+  vertical-align: middle;
+}
+
+.github {
+  color: #000000;
+}
+
+.github:hover {
+  color: #693800;
 }
