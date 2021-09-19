@@ -1,0 +1,32 @@
+.aside .card {
+  align-items: center;
+}
+
+.aside .card img {
+  height: 300px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+h1 {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+  padding-bottom: 5px;
+}
+
+.discord {
+  font-size: 1.2rem;
+}
