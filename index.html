@@ -141,6 +141,38 @@
             </div>
           </div>
         </div>
+        <div class="code card">
+          <div class="card-body">
+            <h3><i class="fas fa-keyboard"></i> Code sample:</h3>
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <code>
+                    <pre>
+                      function happyNumbers(a){
+                        const res = [];
+                        for (let num = 1; num <= a; num++) {
+                          let isTrue = false;
+                          const uniqueNums = [];
+                          function isHappy(num) {
+                            if (num === 1) return isTrue = true;
+                            if (!uniqueNums.includes(num)) {
+                              uniqueNums.push(num);
+                              isHappy(num.toString().split('').reduce((acc, val) => acc + val**2, 0));
+                            }
+                            return isTrue;
+                          }
+                          if (isHappy(num)) res.push(num);
+                        }
+                        return res;
+                      }
+                    </pre>
+                  </code>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       <footer class="footer"></footer>
     </div>

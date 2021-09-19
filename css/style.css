@@ -44,3 +44,8 @@ li {
 .col-md-8 {
   line-height: 2;
 }
+
+pre {
+  background-color: #ececec;
+  color: #000000;
+}
