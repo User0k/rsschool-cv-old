@@ -80,3 +80,29 @@ code {
 .rsschool {
   width: 120px;
 }
+
+@media (max-width: 895px) {
+  .pacman {
+    width: 300px;
+  }
+}
+
+@media (max-width: 640px) {
+  .pacman {
+    width: 230px;
+  }
+
+  .rsschool {
+    width: 80px;
+  }
+}
+
+@media (max-width: 320px) {
+  .pacman {
+    width: 200px;
+  }
+
+  .rsschool {
+    width: 60px;
+  }
+}
