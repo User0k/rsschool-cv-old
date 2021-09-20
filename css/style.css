@@ -10,10 +10,17 @@ aside .card{
   align-items: center;
 }
 
-.aside .card img {
-  height: 300px;
+img {
+  height: 100%;
+}
+
+.avatar {
   width: 300px;
   padding-bottom: 10px;
+}
+
+.row.mx-2 {
+  align-items: start;
 }
 
 h1, h4 {
@@ -49,12 +56,8 @@ li {
   line-height: 2;
 }
 
-pre {
-  background-color: #ececec;
-  color: #000000;
-}
-
 footer {
+  padding-top: 1rem;
   vertical-align: middle;
 }
 
@@ -64,4 +67,42 @@ footer {
 
 .github:hover {
   color: #693800;
+}
+
+pre {
+  margin-bottom: 0;
+}
+
+code {
+  padding: 0 !important;
+}
+
+.rsschool {
+  width: 120px;
+}
+
+@media (max-width: 895px) {
+  .pacman {
+    width: 300px;
+  }
+}
+
+@media (max-width: 640px) {
+  .pacman {
+    width: 230px;
+  }
+
+  .rsschool {
+    width: 80px;
+  }
+}
+
+@media (max-width: 320px) {
+  .pacman {
+    width: 200px;
+  }
+
+  .rsschool {
+    width: 60px;
+  }
 }
