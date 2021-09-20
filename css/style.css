@@ -10,15 +10,6 @@ aside .card{
   align-items: center;
 }
 
-img {
-  height: 100%;
-}
-
-.avatar {
-  width: 300px;
-  padding-bottom: 10px;
-}
-
 .row.mx-2 {
   align-items: start;
 }
@@ -76,6 +67,16 @@ pre {
 code {
   padding: 0 !important;
 }
+
+img {
+  height: 100%;
+}
+
+.avatar {
+  width: 300px;
+  padding-bottom: 10px;
+}
+
 
 .rsschool {
   width: 120px;
